@@ -10,6 +10,19 @@
 - 중복 매물(매물번호 기준) 자동 스킵
 - 엑셀 파일(`naver_property_data.xlsx`)로 저장
 
+## 🛠️ 기술스택
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/requests-2A6DB0?style=flat&logo=python&logoColor=white" alt="requests"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/openpyxl-1D6F42?style=flat&logo=python&logoColor=white" alt="openpyxl"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white" alt="Windows"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white" alt="macOS"/>
+</p>
+
 ## 사용 방법
 
 1. **필수 라이브러리 설치**

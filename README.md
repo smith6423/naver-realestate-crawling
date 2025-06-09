@@ -41,4 +41,4 @@
 
 ## Contact
 
-궁금한 점이나 개선 제안은 [이메일](mailto:your.email@example.com) 또는 [이슈 등록](https://github.com/your-github-id/realty-crawling/issues) 부탁드립니다. 
+궁금한 점이나 개선 제안은 [이메일](mailto:smith720@naver.com) 또는 [이슈 등록](https://github.com/smith6423/naver-realestate-crawling/issues) 부탁드립니다. 
